@@ -1,0 +1,41 @@
+
+body {
+
+	background-color:lightblue;
+}
+
+
+#esquerdo {
+  display: inline-block;
+  width: 20%;
+  border-color: black;
+  border-style: solid;  
+ 
+}
+
+#direito {
+  width: 60%;
+}
+
+
+#esquerdo1 {
+  display: inline-block;
+  width: 20%;
+  border-color: black;
+  border-style: solid;  
+ }
+
+ #direito1 {
+  width: 60%;
+}
+ 
+ #margem {
+
+padding-left:30px;
+
+ }
+
+
+
+
+
